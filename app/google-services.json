@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "249235643502",
+    "firebase_url": "https://firequest-f11a0.firebaseio.com",
+    "project_id": "firequest-f11a0",
+    "storage_bucket": "firequest-f11a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249235643502:android:ab7cfbfc86d3fbc2",
+        "android_client_info": {
+          "package_name": "fr.wildcodeschool.firequest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249235643502-sspfn2tbr85daudjdje9t0rtqepiavmr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.wildcodeschool.firequest",
+            "certificate_hash": "25d73c0571571fc5218b781ada39fd885cca0e4b"
+          }
+        },
+        {
+          "client_id": "249235643502-njfhohnenk3nuu3nb38vg4276q5ne8d7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEZgwMkDdh8suIIfhqPo-0wkeTqycLHrE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249235643502-njfhohnenk3nuu3nb38vg4276q5ne8d7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
